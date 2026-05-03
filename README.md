@@ -26,15 +26,21 @@ The architecture is designed to allow easy modification and extension of pricing
 - `products` → product catalog
 
 This separation ensures high maintainability and extensibility.
-
 ---
-
 ## ▶️ How to Run
 
 ### Run app
 ```bash
 node index.js
 
-## ▶️ How to Run Test File
+---
+
+## ▶️ How to Run Test
+
+### Run test
 ```bash
 npm run test
+
+
+
+
