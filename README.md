@@ -34,3 +34,7 @@ This separation ensures high maintainability and extensibility.
 ### Run app
 ```bash
 node index.js
+
+## ▶️ How to Run Test File
+```bash
+npm run test
