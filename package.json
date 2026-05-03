@@ -1,0 +1,12 @@
+{
+  "name": "amaysim-shopping-cart",
+  "version": "1.0.0",
+  "description": "Amaysim Shopping Cart Exercise",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node tests/cart.test.js"
+  },
+  "author": "Eric Paul Jaucian",
+  "license": "MIT"
+}
