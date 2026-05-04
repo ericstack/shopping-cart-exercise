@@ -34,7 +34,7 @@ function pricingRules(cart, promoCode) {
 
   // Other items
   cart.items.forEach(item => {
-    console.log('Processing item:', item);
+
     if (!['ult_small', 'ult_medium', 'ult_large'].includes(item.code)) {
       total += item.price;
     }
