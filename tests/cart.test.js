@@ -44,5 +44,5 @@ cart = new ShoppingCart(pricingRules);
 cart.add(PRODUCTS.ult_small);
 cart.add(PRODUCTS['1gb']);
 cart.applyPromo('I<3AMAYSIM');
-console.log('Total:', cart.total());
+
 assertEqual(cart.total(), 31.32, 'Scenario 4 total');
